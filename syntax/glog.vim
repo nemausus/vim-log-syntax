@@ -1,3 +1,4 @@
+" Author: Naresh (nareshkumargangwar@gmail.com)
 " Vim syntax file for glog
 
 if exists("b:current_syntax")
